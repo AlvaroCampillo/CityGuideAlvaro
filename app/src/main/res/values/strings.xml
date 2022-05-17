@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CityGuideAlvaro</string>
+    <string name="Events">Events</string>
+    <string name="Places">Places</string>
+    <string name="Accommodation">Accommodation</string>
+    <string name="GuidedTours">Guided Tours</string>
+    <string name="Home">Home</string>
+    <string name="GuidedToursAct">Guided Tours</string>
+    <string name="WonderPlacesofOviedo">Wonder Places of Oviedo</string>
+    <string name="VisittoLlagar">Visit to Llagar</string>
+    <string name="MythsandLegendsofOviedo">Myths and Legends of Oviedo</string>
+    <string name="calatravatext">This is a multipurpose building which is able of holding conferences, high caliber events as well as a shopping cente and a hotel within it. Since it is white it is fairly easy to differentiate and is worth seeing.</string>
+    <string name="PlayVoiceDescription">Play Voice Description</string>
+    <string name="Writeyouropinion">Write your opinion</string>
+    <string name="catedralstring">The Cathedral of Oviedo is probably the most famous building in the city. It can be seen from almost everywhere all around the city. It is a must do if you ever visit this city.</string>
+    <string name="fontandescrip">Is one of the most know places in the city. People gather around for almost everything, tourism, shopping, having lunch... We can say that without a doubt is one of the nexes of the city of Oviedo."</string>
+    <string name="footballdescrip">As a matter of fact, being in Spain is a synonym of being in a place where football is the dominant sport. And Oviedo couldn\'t be otherwise. With its local team, Real Oviedo, which has founded in 1926</string>
+    <string name="gasconadescrip">Gascona is a pretty well located street in the center of Oviedo. It is known fro all its bars and for having some really good prices. Most of the people like having a good time there.</string>
+    <string name="llagardescrip">On this tour you get to experience the full Asturian feeling. Get your cider Escanciada eat some cachopo... The tour includes the reservation at the Llagar (Tierra Astur in Gascona street) as well as the food and drinks.</string>
+    <string name="OviedoCityGuide">Oviedo City Guide</string>
+    <string name="AsturiasNaturalParadise">Asturias Natural Paradise</string>
+    <string name="maravillasdescrip">On this tour you will get see the main historical and famous places in the city. As well as an explanatation of how the city was in the past and how it evolved to become what it is today.</string>
+    <string name="mythsdescrip">On this tour we will explore the night life of the city. Its creepiest places and some popular legends that relate not only to modern myths but with pretty ancient ones."</string>
+    <string name="romerodescrip">Pensión Romero is a nice and comfy 2-star hostel where you can stay in the city center of Oviedo for just 35€ (165 PLN) per night. Depsite the price, breakfasts are included and you are also able to contract other services</string>
+    <string name="muniadescrip">This is a mid-high class hotel. It is 4-star building very well located in the city. Its price,which is 66€ (~300 PLN), guaratees a very comfortable stay. You can also enjoy its Spa\'s features.</string>
+    <string name="recondescrip">This is the top when we talk about hotels in Oviedo. In fact, is the only 5-star within the city. For the price of 90€ (415 PLN) you get to stay within a real Barroc palace, full of beatiful decorations. </string>
+    <string name="smlocation">Since this event is all city wide, there is not an exact location. But we can say that its core is at the city center.</string>
+    <string name="smdescrip">San Mateo, that is the name that gathers up everything that refers to this event. This, is a celebration that happens every year on the 21st of September. It is that big that it lasts for several days. </string>
+    <string name="sansildescrip">The San Silvestre is popular race event that happens every 31st of December in the afternoon. On this event people gather up and run in different categories. The main race is the general course where around 5.000 people run</string>
+    <string name="stadescrip">If you ever plan to visit Oviedo you need to visit Santa Maria del Naranco. Although is a little far away from the main city you can access by car or by bus, and for sure the views and sight of the historic place will pay off.</string>
+
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CityGuideAlvaro</string>
+    <string name="Events">Eventos</string>
+    <string name="Places">Lugares</string>
+    <string name="Accommodation">Hospedaje</string>
+    <string name="GuidedTours">Visitas Guiadas</string>
+    <string name="Home">Inicio</string>
+    <string name="GuidedToursAct">Visitas Guiadas</string>
+    <string name="WonderPlacesofOviedo">Maravillas de Oviedo</string>
+    <string name="VisittoLlagar">Visita al Llagar</string>
+    <string name="MythsandLegendsofOviedo">Mitos y Leyendas de Oviedo</string>
+    <string name="calatravatext">Es un edificio polivalente capaz de albergar congresos, eventos de alto nivel así como un centro comercial y un hotel dentro del mismo. Como es blanco, es bastante fácil de diferenciar y vale la pena verlo.</string>
+    <string name="PlayVoiceDescription">Reproducir descripción de voz</string>
+    <string name="Writeyouropinion">Escribe tu opinión</string>
+    <string name="catedralstring">La Catedral de Oviedo es probablemente el edificio más famoso de la ciudad. Se puede ver desde casi todos los lugares de la ciudad. Es una visita obligada si alguna vez visitas esta ciudad.</string>
+    <string name="fontandescrip">Es uno de los lugares más conocidos de la ciudad. La gente se reúne para casi todo, turismo, compras, comer... Podemos decir que sin duda es uno de los nexos de la ciudad de Oviedo.</string>
+    <string name="footballdescrip">De hecho, estar en España es sinónimo de estar en un lugar donde el fútbol es el deporte dominante. Y Oviedo no podía ser de otra manera. Con su equipo local, el Real Oviedo, fundado en 1926 , la ciudad ha estado dando apoyo al equipo en el Estadio Carlos Tartiere. El equipo se caracteriza por vestir un uniforme azul</string>
+    <string name="gasconadescrip">Gascona es una calle bastante bien situada en el centro de Oviedo. Es conocido por todos sus bares y por tener unos precios realmente buenos. A la mayoría de la gente le gusta pasar un buen rato allí.</string>
+    <string name="llagardescrip">En este tour podrás experimentar todo el sentimiento asturiano. Pídete tu sidra Escanciada come un cachopo... El tour incluye la reserva en el Llagar (Tierra Astur en la calle Gascona) así como la comida y bebida. (El precio es variable)</string>
+    <string name="OviedoCityGuide">Guía de Visita de Oviedo</string>
+    <string name="AsturiasNaturalParadise">Asturias Paraíso Natural</string>
+    <string name="maravillasdescrip">En este recorrido podrá ver los principales lugares históricos y famosos de la ciudad. Así como una explicación de cómo era la ciudad en el pasado y cómo evolucionó hasta convertirse en lo que es hoy.</string>
+    <string name="mythsdescrip">En este recorrido exploraremos la vida nocturna de la ciudad. Sus lugares más espeluznantes y algunas leyendas populares que se relacionan no solo con mitos modernos sino con otros bastante antiguos.</string>
+    <string name="romerodescrip">Pensión Romero es un bonito y cómodo albergue de 2 estrellas donde puedes alojarte en el centro de la ciudad de Oviedo por tan solo 35€ (165 PLN) la noche. A pesar del precio, los desayunos están incluidos y también se pueden contratar comidas y cenas.</string>
+    <string name="muniadescrip">Este es un hotel de clase media-alta. Es un edificio de 4 estrellas muy bien ubicado en la ciudad. Su precio, que es de 66€ (~300 PLN), garantiza una estancia muy cómoda. También podrá disfrutar de las prestaciones de su Spa.</string>
+    <string name="recondescrip">Este es el top cuando hablamos de hoteles en Oviedo. De hecho, es el único 5 estrellas dentro de la ciudad. Por el precio de 90€ (415 PLN) puedes alojarte en un auténtico palacio barroco, lleno de preciosas decoraciones. También es bueno mencionar que cuando el rey se queda en la ciudad se queda aquí.</string>
+    <string name="smlocation">Dado que este evento es en toda la ciudad, no hay una ubicación exacta. Pero podemos decir que su núcleo está en el centro de la ciudad.</string>
+    <string name="smdescrip">San Mateo, ese es el nombre que recoge todo lo que hace referencia a este acontecimiento. Esta es una celebración que ocurre todos los años el 21 de septiembre. Es tan grande que dura varios días. En este evento se despliega música, espectáculos de acción en vivo y más tipos de entretenimiento para el deleite del público.</string>
+
+    <string name="sansildescrip">La San Silvestre es una carrera popular que ocurre cada 31 de diciembre por la tarde. La carrera principal es el recorrido general donde alrededor de 5.000 personas corren durante 5,5 km.La mayoría de la gente lo organiza solo por diversión y para dar la bienvenida al nuevo año.</string>
+
+    <string name="stadescrip">Si alguna vez planeas visitar Oviedo, debes visitar Santa María del Naranco. Aunque está un poco alejado de la ciudad principal, se puede acceder en automóvil o en autobús, y seguro que las vistas y la vista del lugar histórico valdrán la pena.</string>
+
+
+
+
+
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.alvaro.cityguidealvaro">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CityGuideAlvaro">
+        <activity
+            android:name=".Tours.llagarxx"
+            android:exported="false" />
+        <activity
+            android:name=".PlaceS.calatravaxx"
+            android:exported="false" />
+        <activity
+            android:name=".Tours.MaravillasOviedo"
+            android:exported="false" />
+        <activity
+            android:name=".Tours.MitosLeyendas"
+            android:exported="false" />
+        <activity
+            android:name=".AccomodatioN.PensionRomero"
+            android:exported="false" />
+        <activity
+            android:name=".AccomodatioN.Zoreda"
+            android:exported="false" />
+        <activity
+            android:name=".AccomodatioN.PrincesaMunia"
+            android:exported="false" />
+        <activity
+            android:name=".AccomodatioN.Reconquista"
+            android:exported="false" />
+        <activity
+            android:name=".PlaceS.Fontan"
+            android:exported="false" />
+        <activity
+            android:name=".PlaceS.Gascona"
+            android:exported="false" />
+        <activity
+            android:name=".PlaceS.Cathedral"
+            android:exported="false" />
+        <activity
+            android:name=".PlaceS.StaMaria"
+            android:exported="false" />
+        <activity
+            android:name=".EventS.SanSilvestre"
+            android:exported="false" />
+        <activity
+            android:name=".EventS.Football"
+            android:exported="false" />
+        <activity
+            android:name=".EventS.SanMateo"
+            android:exported="false" />
+        <activity
+            android:name="Events.SanMateo"
+            android:exported="false" />
+        <activity
+            android:name=".Guided_Tours"
+            android:exported="false" />
+        <activity
+            android:name=".Accomodation"
+            android:exported="false" />
+        <activity
+            android:name=".Places"
+            android:exported="false" />
+        <activity
+            android:name=".Events"
+            android:exported="false" />
+        <activity
+            android:name=".main_menu"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

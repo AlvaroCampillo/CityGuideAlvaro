@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.2115" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/drawable/ic_baseline_add_location_24.xml" value="0.2115" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_accomodation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_calatrava.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_calatravaxx.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_cathedral.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_events.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_fontan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_football.xml" value="0.33" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_gascona.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_guided_tours.xml" value="0.22" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_llagar.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_llagarxx.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_maravillas_oviedo.xml" value="0.22" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_mitos_leyendas.xml" value="0.22" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_pension_romero.xml" value="0.33" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_places.xml" value="0.33" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_princesa_munia.xml" value="0.33" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_reconquista.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_san_mateo.xml" value="0.33" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_san_mateo2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_san_silvestre.xml" value="0.33" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_sta_maria.xml" value="0.22" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/layout/activity_zoreda.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/gascona.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/menu_calatrava.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/menu_catedral.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/menu_fontan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/menu_football.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/menu_llagar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/menu_maravilla.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/menu_munia.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/menu_myths.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/menu_recon.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/menu_romero.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/menu_sanmateo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/menusansil.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/CityGuideAlvaro/app/src/main/res/menu/stamaria.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

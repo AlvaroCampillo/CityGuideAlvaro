@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/events"
+        app:showAsAction="never"
+        android:title="@string/Events"/>
+
+
+    <item android:id="@+id/Places"
+        android:title="@string/Places"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/Accomodation"
+        android:title="@string/Accommodation"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/GuidedTours"
+        android:title="@string/GuidedTours"
+        app:showAsAction="never"/>
+
+
+</menu>
