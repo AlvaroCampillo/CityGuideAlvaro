@@ -5,36 +5,38 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFFFFF"
-    android:backgroundTint="#9A75F8"
+    android:backgroundTint="#EDEBF4"
     tools:context=".Places">
 
     <ImageView
         android:id="@+id/imageView16"
-        android:layout_width="237dp"
-        android:layout_height="80dp"
+        android:layout_width="146dp"
+        android:layout_height="69dp"
+        android:layout_marginEnd="80dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView12"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/llagar"
         app:layout_constraintTop_toBottomOf="@+id/imageView14"
+        app:layout_constraintVertical_bias="0.536"
         app:srcCompat="@drawable/cala" />
 
     <Button
         android:id="@+id/wonder"
-        android:layout_width="127dp"
-        android:layout_height="96dp"
+        android:layout_width="179dp"
+        android:layout_height="71dp"
         android:layout_marginTop="42dp"
-        android:background="#19DA12"
+        android:background="#101510"
         android:backgroundTint="#00FFFFFF"
         android:text="Santa María del Naranco"
         android:textAllCaps="false"
-        android:textColor="#000000"
+        android:textColor="#EADEDE"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/gascona" />
+        app:layout_constraintTop_toBottomOf="@+id/gascona"
+        app:layout_constraintVertical_bias="0.0" />
 
     <TextView
         android:id="@+id/tours"
@@ -42,7 +44,7 @@
         android:layout_height="wrap_content"
         android:text="Places"
         android:textAlignment="center"
-        android:textColor="#FFFDFD"
+        android:textColor="#0C0808"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -54,50 +56,48 @@
 
     <Button
         android:id="@+id/llagar"
-        android:layout_width="167dp"
-        android:layout_height="58dp"
+        android:layout_width="182dp"
+        android:layout_height="66dp"
         android:layout_marginStart="4dp"
-        android:layout_marginTop="120dp"
-        android:background="#80FB3D"
+        android:background="#0B0C0A"
         android:text="Calatrava"
         android:textAllCaps="false"
-        android:textColor="#000000"
+        android:textColor="#EAE2E2"
         android:textSize="18sp"
+        android:textStyle="bold"
         app:iconTint="#00FFFFFF"
         app:layout_constraintBottom_toTopOf="@+id/fontan"
-        app:layout_constraintEnd_toStartOf="@+id/imageView16"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tours"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView14"
+        app:layout_constraintVertical_bias="0.56" />
 
     <Button
         android:id="@+id/fontan"
-        android:layout_width="107dp"
-        android:layout_height="48dp"
-        android:layout_marginTop="160dp"
-        android:background="#2196F3"
+        android:layout_width="177dp"
+        android:layout_height="61dp"
+        android:layout_marginBottom="32dp"
+        android:background="#010202"
         android:backgroundTint="#003A2626"
-        android:text="Fontán"
+        android:text="El Fontán"
         android:textAllCaps="false"
-        android:textColor="#070707"
+        android:textColor="#F8EAEA"
         android:textSize="20sp"
         android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imageView10"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.026"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/catedral" />
+        app:layout_constraintHorizontal_bias="0.027"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/catedral"
-        android:layout_width="175dp"
+        android:layout_width="188dp"
         android:layout_height="57dp"
-        android:layout_marginTop="76dp"
-        android:background="#59EF22"
-        android:backgroundTint="#00FFFFFF"
+        android:layout_marginTop="84dp"
+        android:background="@drawable/catedral"
+        android:backgroundTint="#000000"
         android:text="Cathedral"
         android:textAllCaps="false"
-        android:textColor="#070505"
+        android:textColor="#F1EAEA"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -107,14 +107,14 @@
 
     <Button
         android:id="@+id/gascona"
-        android:layout_width="114dp"
-        android:layout_height="63dp"
+        android:layout_width="178dp"
+        android:layout_height="61dp"
         android:layout_marginTop="36dp"
-        android:background="#FFEB3B"
+        android:background="#000000"
         android:backgroundTint="#00392525"
         android:text="Gascona"
         android:textAllCaps="false"
-        android:textColor="#000000"
+        android:textColor="#E1D0D0"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -124,76 +124,39 @@
 
     <ImageView
         android:id="@+id/imageView8"
-        android:layout_width="129dp"
-        android:layout_height="137dp"
+        android:layout_width="111dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="48dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/imageView9"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/wonder"
         app:srcCompat="@drawable/stamariap" />
 
     <ImageView
-        android:id="@+id/imageView9"
-        android:layout_width="144dp"
-        android:layout_height="94dp"
-        android:layout_marginBottom="16dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/imageView8"
-        app:srcCompat="@drawable/santamari" />
-
-    <ImageView
         android:id="@+id/imageView10"
-        android:layout_width="140dp"
-        android:layout_height="112dp"
+        android:layout_width="123dp"
+        android:layout_height="72dp"
+        android:layout_marginBottom="20dp"
         app:layout_constraintBottom_toTopOf="@+id/imageView8"
-        app:layout_constraintEnd_toStartOf="@+id/imageView11"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/gascona"
         app:srcCompat="@drawable/gasco" />
 
     <ImageView
-        android:id="@+id/imageView11"
-        android:layout_width="129dp"
-        android:layout_height="104dp"
-        android:layout_marginBottom="24dp"
-        app:layout_constraintBottom_toTopOf="@+id/imageView9"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/imageView10"
-        app:srcCompat="@drawable/gascona" />
-
-    <ImageView
         android:id="@+id/imageView12"
-        android:layout_width="148dp"
-        android:layout_height="80dp"
-        android:layout_marginBottom="12dp"
+        android:layout_width="122dp"
+        android:layout_height="61dp"
+        android:layout_marginBottom="32dp"
         app:layout_constraintBottom_toTopOf="@+id/imageView10"
-        app:layout_constraintEnd_toStartOf="@+id/imageView13"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/fontan"
         app:srcCompat="@drawable/fontan" />
 
     <ImageView
-        android:id="@+id/imageView13"
-        android:layout_width="122dp"
-        android:layout_height="108dp"
-        android:layout_marginBottom="9dp"
-        app:layout_constraintBottom_toTopOf="@+id/imageView11"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/imageView12"
-        app:srcCompat="@drawable/fontan2" />
-
-    <ImageView
         android:id="@+id/imageView14"
-        android:layout_width="118dp"
-        android:layout_height="113dp"
-        android:layout_marginStart="208dp"
-        android:layout_marginBottom="132dp"
-        app:layout_constraintBottom_toTopOf="@+id/fontan"
+        android:layout_width="91dp"
+        android:layout_height="63dp"
+        android:layout_marginStart="184dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView16"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tours"
         app:srcCompat="@drawable/catedral" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
